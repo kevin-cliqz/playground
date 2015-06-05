@@ -1,4 +1,4 @@
-Hello cliqzers!`
+Hello cliqzers!
 
 
 
@@ -19,3 +19,5 @@ Hello cliqzers!`
           jgs  \    o            /
                 `._           _.'
                    ^~- . -  ~^ 
+
+Try to make the snowman prettier.
